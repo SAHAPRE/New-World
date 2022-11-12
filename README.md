@@ -1,3 +1,12 @@
-# New-World
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body>
 
-This is my world of learning
+<h1>Hello world!</h1>
+<p>This is the first file in my new Git Repo.</p>
+
+</body>
+</html>
